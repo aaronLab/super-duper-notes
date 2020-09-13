@@ -7,9 +7,10 @@ Things about what I'm often confused about.
 
 ### Swift
 
-|               Link                |
-| :-------------------------------: |
-| [URLSession](swift/urlSession.md) |
+|                Link                 |
+| :---------------------------------: |
+|  [URLSession](swift/urlSession.md)  |
+| [JSONDecoder](swift/JSONDecoder.md) |
 
 ### Misc
 
