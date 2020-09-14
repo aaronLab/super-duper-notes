@@ -5,15 +5,7 @@ Things about what I'm often confused about.
 
 ## Index
 
-### Swift
-
-|                Link                 |
-| :---------------------------------: |
-|  [URLSession](swift/urlSession.md)  |
-| [JSONDecoder](swift/JSONDecoder.md) |
-
-### Misc
-
-|             Link             |
-| :--------------------------: |
-| [Terminal](misc/terminal.md) |
+|           Link           |
+| :----------------------: |
+| [Swift](swift/README.md) |
+|  [Misc](misc/README.md)  |
