@@ -5,7 +5,7 @@ Things about what I'm often confused about.
 
 ## Index
 
-|      Link      |
-| :------------: |
-| [Swift](swift) |
-|  [Misc](misc)  |
+|        Link        |
+| :----------------: |
+| [Swift](iOS-swift) |
+|    [Misc](misc)    |
