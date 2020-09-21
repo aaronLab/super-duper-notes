@@ -5,6 +5,7 @@ Things about I'm often confused about Terminal.
 
 ## Index
 
-|          Link           |
-| :---------------------: |
-| [Terminal](terminal.md) |
+|              Link               |
+| :-----------------------------: |
+|     [Terminal](terminal.md)     |
+| [Architecture](architecture.md) |
