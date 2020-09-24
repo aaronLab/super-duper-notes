@@ -12,3 +12,4 @@ Things about I'm often confused about Swift.
 | [View Controller Life Cycle](ViewController-LifeCycle.md) |
 |             [Access Levels](Access-Levels.md)             |
 |                 [Type Casting: as](as.md)                 |
+|                  [Optional](optional.md)                  |

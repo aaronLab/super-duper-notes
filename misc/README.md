@@ -1,6 +1,6 @@
-# Terminal
+# Misc
 
-Things about I'm often confused about Terminal.
+Others
 <br>
 
 ## Index
